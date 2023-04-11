@@ -1,8 +1,5 @@
 Read Only 
 
-
-
-
 Credits:
 
 	Demo Images:
@@ -10,5 +7,3 @@ Credits:
 
 	Icons:
 		Font Awesome (fontawesome.io)
-
-	
